@@ -6,7 +6,11 @@
             alt="follow on Twitter"></a>
 <a href="https://github.com/RusticWork/civtech-ideas/issues/new/choose">
         <img src="https://img.shields.io/badge/Idea-Propose-red"
-            alt="Log a Github issue"></a>
+            alt="Propose a new idea"></a>
+<a href="https://github.com/RusticWork/civtech-ideas/issues">
+        <img src="https://img.shields.io/badge/Idea-View-green"
+            alt="View Ideas"></a>
+    
   
 </p>
 
