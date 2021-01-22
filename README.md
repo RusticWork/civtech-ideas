@@ -1,6 +1,6 @@
 # Tech for Local Community
 
-<p align="center">
+<p>
     <a href="https://twitter.com/intent/follow?screen_name=shields_io">
         <img src="https://img.shields.io/twitter/follow/RusticWork_Ind?label=Follow&style=social"
             alt="follow on Twitter"></a>
