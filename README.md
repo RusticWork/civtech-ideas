@@ -27,7 +27,7 @@ Happy to hear your ideas - [please propose your idea](https://github.com/RusticW
 
 ## Implementation
 
-These projects are democratic and volunteer driven. Our strength is in numbers. Hopefully with the guidance of more experienced mentors (who can be across the globe), we can inspire and bring in a local-community driven tech culture.
+These projects are volunteer driven. Our strength is in numbers. Hopefully with the guidance of more experienced mentors (who can be across the globe), we can inspire and bring in a local-community driven tech culture.
 
 ## Local communities
 
@@ -35,13 +35,13 @@ Following are the list of local communities we are looking to serve -
 
 | Town                          | Description                                 | Communication platform |
 | ----------------------------- | ------------------------------------------- | ---------------------- |
-| [Virudhunagar](https://en.wikipedia.org/wiki/Virudhunagar) | A small district in the south of Tamil Nadu most famous for India's greatest Chief Minister (Kamaraj) | [Discord Server](https://discord.gg/FwsjGNV5AS) |
+| [Virudhunagar](https://en.wikipedia.org/wiki/Virudhunagar) | A small district in the south of Tamil Nadu best known for India's greatest Chief Minister (Kamaraj) | [Discord Server](https://discord.gg/FwsjGNV5AS) |
 
-- If you would like to lead your town's effort, please contact [Sriram](https://github.com/late-warrior) - we will make all our resources available soon.
+- If you would like to lead your town's effort, please contact the maintainers - we will organize all our resources better and make it opensource soon.
 
 ## Why
 
-At RusticWork, [our mission](https://www.rusticwork.in/post/why-now) is to usher in a new technology driven development of smaller towns (in India) that have historically had poor access to capital and talent. The talent could not stay back because of job demands, but with Work From Home (WFH) proving to be a solution for many worker
+At RusticWork, [our mission](https://www.rusticwork.in/post/why-now) is to usher in a new technology driven development of smaller towns (in India) that have historically had poor access (or drain) to capital and talent. The talent could not stay back because of job demands, but with Work From Home (WFH) proving to work, we have a unique opportunity to reverse urban migration and improve the economic viability of smaller towns.
 
 Read [here](https://threadreaderapp.com/thread/1277025421305905152.html) and [here](https://zenx.medium.com/the-six-dots-problem-re-imagining-india-b7d81b223827) to understand the depth of the problem. There is a frightening amount of inequality between cities and towns/villages and it wont end well for either if we allow the status quo (pre-2020) to continue.
 
