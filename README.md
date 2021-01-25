@@ -4,10 +4,10 @@
     <a href="https://twitter.com/intent/follow?screen_name=shields_io">
         <img src="https://img.shields.io/twitter/follow/RusticWork_Ind?label=Follow&style=social"
             alt="follow on Twitter"></a>
-<a href="https://github.com/RusticWork/civtech-ideas/issues/new/choose">
+<a href="https://github.com/RusticWork/civtech-ideas/discussions/new">
         <img src="https://img.shields.io/badge/Idea-Propose-red"
             alt="Propose a new idea"></a>
-<a href="https://github.com/RusticWork/civtech-ideas/issues">
+<a href="https://github.com/RusticWork/civtech-ideas/discussions">
         <img src="https://img.shields.io/badge/Idea-View-green"
             alt="View Ideas"></a>
     
